@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatRPattern", "MediatRPattern\MediatRPattern.csproj", "{235BDDA5-D593-4BE9-ABFF-9D29E68CE2D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{235BDDA5-D593-4BE9-ABFF-9D29E68CE2D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{235BDDA5-D593-4BE9-ABFF-9D29E68CE2D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{235BDDA5-D593-4BE9-ABFF-9D29E68CE2D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{235BDDA5-D593-4BE9-ABFF-9D29E68CE2D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3E76A51-5D40-478B-8FFC-273AD5446EA9}
+	EndGlobalSection
+EndGlobal
